@@ -1,6 +1,6 @@
 # WinForms-Calc
 
-VB.NET working copy of `WinForms-Calc` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Calc.
+VB.NET working copy of `WinForms-Calc` from my Historical Dev `VB/Old` folder. Project title: Calc.
 
 **Source last updated:** 2026-08-27 · **Language:** VB.NET · **Target:** .NET Framework (legacy VB.NET) · **Output:** WinForms exe
 
@@ -24,7 +24,7 @@ Open the solution in Visual Studio:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/WinForms-Calc`.
+Working copy from my Historical Dev folder `VB/Old/WinForms-Calc`.
 Third-party attribution: Microsoft. See `THIRD_PARTY_NOTICES.md`.
 
 ## License
